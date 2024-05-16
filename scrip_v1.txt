@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/Gamer144roblox/Pro-hub-/main/Protected_2612208914834163.lua.txt")))()
